@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 import org.testng.log4testng.Logger;
 
 public class LoginTest {
-	
+	//
 	//What is log? : capturing info/activities at the time of program execution. 
 		// types of logs:
 			//1. info
